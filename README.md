@@ -6,8 +6,7 @@ Projeto desenvolvido no curso de Desenvolvimento Web Completo - 2022 pela Udemy.
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 https://user-images.githubusercontent.com/84508964/208740204-835307cb-938d-44de-bc39-d39a6bc1e221.mp4
